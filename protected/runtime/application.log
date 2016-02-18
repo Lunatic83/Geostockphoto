@@ -1,0 +1,1120 @@
+2011/10/21 01:33:21 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:33:21 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:33:21 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:33:21 [trace] [system.CModule] Loading "db" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\models\User.php (61)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\components\UserIdentity.php (28)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\models\LoginForm.php (52)
+2011/10/21 01:33:21 [trace] [system.db.CDbConnection] Opening DB connection
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\models\User.php (61)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\components\UserIdentity.php (28)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\models\LoginForm.php (52)
+2011/10/21 01:33:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_user`
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\models\User.php (61)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\components\UserIdentity.php (28)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\models\LoginForm.php (52)
+2011/10/21 01:33:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\models\User.php (61)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\components\UserIdentity.php (28)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\models\LoginForm.php (52)
+2011/10/21 01:33:21 [trace] [system.db.ar.CActiveRecord] User.find()
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\components\UserIdentity.php (28)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\models\LoginForm.php (52)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (96)
+2011/10/21 01:33:21 [trace] [system.db.CDbCommand] Querying SQL: SELECT idUser, password FROM `tbl_user` `t` WHERE username=:username LIMIT 1
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\components\UserIdentity.php (28)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\models\LoginForm.php (52)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (96)
+2011/10/21 01:33:21 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\models\LoginForm.php (83)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (96)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:33:21 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\models\LoginForm.php (83)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (96)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:33:21 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:33:21 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:33:21 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:33:21 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:33:21 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:33:21 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:33:21 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:33:21 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:34:26 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:34:26 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:34:26 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:34:26 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:34:26 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:34:26 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:34:26 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:34:26 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:34:29 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:34:29 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:34:29 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:34:29 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:34:29 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:34:29 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:34:29 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:34:29 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:34:36 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:34:36 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:34:36 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:34:36 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (108)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:34:36 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (108)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:34:36 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:34:36 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:34:36 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:34:36 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:34:36 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:34:36 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:34:36 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:34:36 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:34:47 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:34:47 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:34:47 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:34:47 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:34:47 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:34:47 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:34:48 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:34:48 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:35:03 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:35:03 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:35:03 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:35:03 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:35:03 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:35:03 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:35:03 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:35:03 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:36:45 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:36:45 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:36:45 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:36:45 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:36:45 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:36:45 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:36:45 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:36:45 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:37:02 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:37:02 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:37:02 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:37:02 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:37:02 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:37:02 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:37:02 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:37:02 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:37:02 [trace] [system.CModule] Loading "errorHandler" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\components\widgets\views\userMenu.php (24)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\components\widgets\UserMenu.php (8)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (86)
+2011/10/21 01:37:22 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:37:22 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:37:22 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:37:22 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:37:22 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:37:22 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:37:22 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:37:22 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:37:33 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:37:33 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:37:33 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:37:33 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:37:33 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:37:33 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:37:33 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:37:33 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:38:10 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:38:10 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:38:10 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:38:10 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:38:10 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:38:10 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:38:10 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:38:10 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:38:18 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:38:18 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:38:18 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:38:18 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:38:18 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:38:18 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:38:18 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:38:18 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:38:59 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:38:59 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:38:59 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:38:59 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:38:59 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:38:59 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:38:59 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:38:59 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:39:16 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:39:16 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:39:16 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:39:16 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:39:16 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:39:16 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:39:16 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:39:16 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:39:26 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:39:26 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:39:26 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:39:26 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:39:26 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:39:26 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:39:26 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:39:26 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:39:43 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:39:43 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:39:43 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:39:43 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:39:43 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:39:43 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:39:43 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:39:43 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:39:54 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:39:54 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:39:54 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:39:54 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:39:54 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:39:54 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:39:54 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:39:54 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:39:54 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:39:54 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:39:54 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:39:54 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:39:54 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:39:54 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:39:54 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:39:54 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:40:19 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:40:19 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:40:19 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:40:19 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:40:19 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:40:19 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:40:19 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:40:19 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:40:29 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:40:29 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:40:29 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:40:29 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:40:29 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:40:29 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:40:29 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:40:29 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:40:39 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:40:39 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:40:39 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:40:39 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:40:39 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:40:39 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:40:39 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:40:39 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:40:48 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:40:48 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:40:48 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:40:48 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:40:48 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:40:48 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:40:48 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:40:48 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:40:56 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:40:56 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:40:56 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:40:56 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:40:56 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:40:56 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:40:56 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:40:56 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:41:52 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:41:52 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:41:52 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:41:52 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:41:52 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:41:52 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:41:52 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:41:52 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:48:31 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:48:31 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:48:31 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:48:31 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:48:31 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:48:31 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:48:31 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:48:31 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:48:41 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:48:41 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:48:41 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:48:41 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:48:41 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:48:41 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:48:41 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:48:41 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:49:37 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:49:37 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:49:37 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:49:37 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:49:38 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:49:38 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:49:38 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:49:38 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:49:38 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:49:38 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:49:38 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:49:38 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:49:38 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:49:38 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:49:38 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:49:38 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:49:48 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:49:48 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:49:48 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:49:48 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:49:48 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:49:48 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:49:48 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:49:48 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:49:59 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:49:59 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:49:59 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:49:59 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:49:59 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:49:59 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:49:59 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:49:59 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:50:07 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:50:07 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:50:07 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:50:07 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:50:07 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:50:07 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:50:07 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:50:07 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:50:21 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:50:21 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:50:21 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:50:21 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:50:21 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:50:21 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:50:21 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:50:21 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:50:40 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:50:40 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:50:40 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:50:40 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:50:40 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:50:40 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:50:40 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:50:40 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:50:47 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:50:47 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:50:47 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:50:47 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:50:47 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:50:47 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:50:47 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:50:47 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:51:57 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:51:57 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:51:57 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:51:57 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:51:57 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:51:57 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:51:57 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:51:57 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:52:16 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:52:16 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:52:16 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:52:16 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:52:16 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:52:16 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:52:16 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:52:16 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:52:31 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:52:31 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:52:31 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:52:31 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:52:31 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:52:31 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:52:31 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:52:31 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:53:02 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:53:02 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:53:02 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:53:02 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:53:02 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:53:02 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:53:02 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:53:02 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:53:12 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:53:12 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:53:12 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:53:12 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:53:12 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:53:12 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:53:12 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:53:12 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:53:19 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:53:19 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:53:19 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:53:19 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:53:19 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:53:19 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:53:19 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:53:19 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:53:32 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:53:32 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:53:32 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:53:32 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (1)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\index.php (13)
+2011/10/21 01:53:32 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:53:32 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (51)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\column1.php (7)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\controllers\SiteController.php (40)
+2011/10/21 01:53:32 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (109)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (205)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)
+2011/10/21 01:53:32 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (118)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\extensions\mbmenu\MbMenu.php (206)
+in C:\xampp\htdocs\workspace-aptana\geostockphoto\protected\views\layouts\main.php (79)

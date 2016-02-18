@@ -1,0 +1,305 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	color: #555;
+	font: normal 10pt Arial,Helvetica,sans-serif;
+	background: white;
+}
+
+#page
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background: white;
+	border: 0px solid #C9E0ED;
+}
+
+#header
+{
+	min-width:1350px;
+	width:100%;
+}
+
+
+/*#header
+{
+	margin-right: auto;
+	width: 1350px;
+	margin:0 auto;
+}*/
+
+
+#content
+{
+    padding: 10px;
+}
+
+#sidebar
+{
+	padding: 10px 10px 10px 10px;
+}
+
+#landing
+{
+	padding: 10px;
+	margin: 10px 20px;
+	text-align: center;
+	/*font-size: 200%;*/
+}
+
+#footer
+{
+	padding: 10px;
+	margin: 10px 20px;
+	font-size: 0.8em;
+	text-align: center;
+	/*border-top: 1px solid #C9E0ED;*/
+}
+
+#footer table
+{
+	padding: 0px;
+	margin: 0px 0px;
+	font-size: 120%;
+	text-align: left;
+	border-width:1px;
+	border-style:none;
+	border-color:black;
+}
+
+#footer td
+{
+	padding-right: 100px;
+}
+
+#logo
+{
+	padding: 10px 20px;
+	font-size: 200%;
+}
+
+#mainmenu
+{
+	background:white url(bg.gif) repeat-x left top;
+}
+
+#mainmenu ul
+{
+	padding:6px 20px 5px 20px;
+	margin:0px;
+}
+
+#mainmenu ul li
+{
+	display: inline;
+}
+
+#mainmenu ul li a
+{
+	color:#ffffff;
+	background-color:transparent;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none;
+	padding:5px 8px;
+}
+
+#mainmenu ul li a:hover, #mainmenu ul li.active a
+{
+	color: #6399cd;
+	background-color:#EFF4FA;
+	text-decoration:none;
+}
+
+div.flash-error, div.flash-notice, div.flash-success
+{
+	padding:.8em;
+	margin-bottom:1em;
+	border:2px solid #ddd;
+}
+
+div.flash-error
+{
+	background:#FBE3E4;
+	color:#8a1f11;
+	border-color:#FBC2C4;
+}
+
+div.flash-notice
+{
+	background:#FFF6BF;
+	color:#514721;
+	border-color:#FFD324;
+}
+
+div.flash-success
+{
+	background:#E6EFC2;
+	color:#264409;
+	border-color:#C6D880;
+}
+
+div.flash-error a
+{
+	color:#8a1f11;
+}
+
+div.flash-notice a
+{
+	color:#514721;
+}
+
+div.flash-success a
+{
+	color:#264409;
+}
+
+div.form .rememberMe label
+{
+	display: inline;
+}
+
+
+/* START MARCO */
+
+/*div.view
+{
+	padding: 10px;
+	margin: 10px 0;
+	border: 1px solid #C9E0ED;
+}*/
+
+div.view
+{
+	float: left;
+	padding: 4px;
+	margin: 4px 4px 4px 4px;
+	border: 1px solid #C9E0ED;
+	width: 124px;
+	height: 124px;
+	text-align: center;
+	#position:relative; 
+}
+div.view_inner
+{
+	#position:absolute;
+	#top:50%;
+}
+
+div.pager
+{
+	clear: both;
+	margin: 5px 0 0 0;
+	text-align: right;
+}
+
+/* END MARCO */
+
+div.breadcrumbs
+{
+	font-size: 0.9em;
+	padding: 5px 20px;
+}
+
+div.breadcrumbs span
+{
+	font-weight: bold;
+}
+
+div.search-form
+{
+	padding: 10px;
+	margin: 10px 0;
+	background: #eee;
+}
+
+.portlet
+{
+
+}
+
+.portlet-decoration
+{
+	padding: 3px 8px;
+	background: #B7D6E7;
+	border-left: 5px solid #6FACCF;
+}
+
+.portlet-title
+{
+	font-size: 12px;
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+	color: #298dcd;
+}
+
+.portlet-content
+{
+	font-size:0.9em;
+	margin: 0 0 15px 0;
+	padding: 5px 8px;
+	/* background:#EFFDFF; */
+}
+
+.portlet-content ul
+{
+	list-style-image:none;
+	list-style-position:outside;
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+}
+
+.portlet-content li
+{
+	padding: 2px 0 4px 0px;
+}
+
+.operations
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.operations li
+{
+	padding-bottom: 2px;
+}
+
+.operations li a
+{
+	font: bold 12px Arial;
+	color: #0066A4;
+	display: block;
+	padding: 2px 0 2px 8px;
+	line-height: 15px;
+	text-decoration: none;
+}
+
+.operations li a:visited
+{
+	color: #0066A4;
+}
+
+.operations li a:hover
+{
+	background: #80CFFF;
+}
+
+/**
+ * 	Main menu style. 
+ */
+.mainMenuClass #registerItem
+{
+	font-weight: bold;
+	color: orange;
+}
+.mainMenuClass .active #registerItem
+{	
+	color: white;
+}
+
+

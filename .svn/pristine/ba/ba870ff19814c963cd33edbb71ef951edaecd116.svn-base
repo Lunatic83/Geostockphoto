@@ -1,0 +1,1 @@
+var data = { "count": 3,"photos": [{"idProduct": 167,"lng": 14.406250,"lat": 63.481747},{"idProduct": 168,"lng": -73.835938,"lat": 39.794735},{"idProduct": 169,"lng": -69.968750,"lat": 43.979889},]}

@@ -1,0 +1,39 @@
+<div class="container well margin-top-bottom background_box" style="text-align:justify">
+<h4>Termini e Condizioni del servizio <i>Mandaci le tue foto</i></h4>
+I presenti termini e condizioni vincolano GeoStockPhoto e l'Utente Fotografo. L'Utente Fotografo si impegna a leggere attentamente i termini e le condizioni contenuti nel presente documento nonch&eacute nei documenti da esso raggiungibili attraverso collegamenti ipertestuali ed a rispettarne il contenuto.
+
+<h5>1.	Definizioni</h5>
+<p>Fatte salve le definizioni qui di seguito riportate, al presente documento si applicano le definizioni contenute nei <a href="<?php echo Yii::app()->createUrl('/general-terms')?>">Termini e Condizioni di utilizzo del Sito</a>.</p> 
+<p>Codice di Conferma: indica il codice che GeoStockPhoto inserir&agrave nell'email di conferma che invier&agrave all'Utente Fotografo per accettare la Richiesta inviata dall'Utente Fotografo.</p>
+<p>Budget: indica l'importo totale massimo che l'Utente Fotografo &egrave disposto a pagare per il Servizio <i>Mandaci le tue foto</i> (ivi incluso l'Upload della Fotografia da parte di GeoStockPhoto e i costi per l'eventuale restituzione del Supporto, se richiesta dall'Utente Fotografo), che verr&agrave indicato dall'Utente Fotografo in sede di invio della Richiesta.</p>
+<p>Dati: indica i dati che GeoStockPhoto inserir&agrave, su richiesta dell'Utente Fotografo; in esecuzione del Servizio <i>Mandaci le tue foto</i> e, dunque, la categoria e/o la posizione delle Fotografie.</p>
+<p>Richiesta: indica la richiesta di partecipazione al Servizio <i>Mandaci le tue foto</i> che l'Utente Fotografo invier&agrave a GeoStockPhoto compilando l'apposito form reperibile <a href="<?php echo Yii::app()->createUrl('/youdonothing')?>">qui</a>.</p>
+<p>Supporto: indica il supporto (a titolo esemplificativo, hard disk o dvd), che l'Utente Fotografo invier&agrave a GeoStockPhoto, nel quale l'Utente Fotografo avr&agrave salvato le Fotografie rispetto alle quali intende usufruire del Servizio <i>Mandaci le tue foto</i>.</p>
+<p>Servizio <i>Mandaci le tue foto</i>: indica il servizio descritto alla pagina informativa reperibile <a href="<?php echo Yii::app()->createUrl('/licenses')?>">qui</a>.</p>
+
+<h5>2.	Modalit&agrave di Partecipazione</h5>
+<p>L'Utente Fotografo, una volta esaminati attentamente i presenti termini e condizioni unitamente alle ulteriori informazioni sul Servizio <i>Mandaci le tue foto</i> ed ai relativi costi reperibili <a href="<?php echo Yii::app()->createUrl('/youdonothing')?>">qui</a>, invier&agrave la propria Richiesta a GeoStockPhoto.</p>
+<p>Una volta ricevuta la Richiesta dell'Utente Fotografo, GeoStockPhoto, a propria esclusiva discrezione, valuter&agrave l'idoneit&agrave della Richiesta a partecipare al Servizio <i>Mandaci le tue foto</i>, sulla base delle informazioni ivi contenute.</p>
+<p>A valutazione ultimata, GeoStockPhoto invier&agrave all'Utente Fotografo un'email con la quale accetter&agrave o rifiuter&agrave la Richiesta dell'Utente Fotografo.</p>
+<p>In caso di accettazione della Richiesta, nell'email di conferma che invier&agrave all'Utente Fotografo, GeoStockPhoto fornir&agrave a quest'ultimo (i) un Codice di Conferma, (ii) le indicazioni pratiche necessarie per l'invio del Supporto da parte dell'Utente Fotografo e (iii) i costi di spedizione che l'Utente Fotografo sar&agrave tenuto a rimborsare per la restituzione del Supporto, se richiesta dall'Utente Fotografo in sede di invio della Richiesta.</p>
+<p>Qualora l'Utente Fotografo non accetti qualsivoglia delle condizioni di partecipazione, &egrave tenuto ad astenersi dall'inviare il Supporto e dal partecipare al Servizio <i>Mandaci le tue foto</i>.</p>
+
+<h5>3.	Spedizione del Supporto e Responsabilit&agrave</h5>
+<p>Una volta ricevuta l'email di conferma da parte di GeoStockPhoto, l'Utente Fotografo dovr&agrave inviare il proprio Supporto a GeoStockPhoto all'indirizzo fornito da quest'ultima, provvedendo ad allegare al Supporto il proprio nome utente ed il Codice di Conferma. Resta inteso che, nel caso in cui tali informazioni non siano fornite dall'Utente Fotografo o non siano comprensibili per qualsivoglia ragione, GeoStockPhoto compir&agrave ogni ragionevole sforzo per risalire comunque al mittente del Supporto al fine di procedere all'esecuzione dei servizi oggetti dei presenti termini e condizioni, ma non sar&agrave obbligata a fare ci&ograve.</p>
+<p>Resta inteso che i costi da sostenere per la spedizione del Supporto dall'Utente Fotografo a GeoStockPhoto saranno sempre integralmente a carico dell'Utente Fotografo e nessun costo sar&agrave, dunque, sostenuto da GeoStockPhoto.</p>
+<p>Con riferimento ai costi di spedizione da sostenere per l'eventuale restituzione del Supporto da GeoStokPhoto all'Utente Fotografo, tali costi, come debitamente comunicati da GeoStockPhoto all'Utente Fotografo prima dell'invio del Supporto a GeoStockPhoto (cfr. paragrafo 2 supra), verranno sostenuti da GeoStockPhoto ma verranno poi sommati al costo totale dei servizi resi da GeoStockPhoto e verranno, dunque, rimborsati a quest'ultima dall'Utente Fotografo.</p>  
+<p>Resta, altres&igrave, inteso che GeoStockPhoto non sar&agrave responsabile per l'eventuale smarrimento o danneggiamento del Supporto per qualsivoglia ragione.</p>
+
+<h5>4.	Esecuzione del Servizio <i>Mandaci le tue foto</i></h5>
+<p>Una volta ricevuto il Supporto, GeoStockPhoto individuer&agrave, a propria esclusiva discrezione ed insindacabile giudizio, le Fotografie rispetto alle quali effettuer&agrave i servizi oggetto dei presenti termini e condizioni e l'Utente Fotografo, tramite il proprio account, potr&agrave monitorare in tempo reale in qualsiasi momento tutte le operazioni effettuate da GeoStockPhoto con riferimento alle Fotografie caricate sul Supporto.</p>
+<p>Resta inteso che, una volta ultimata l'esecuzione dei servizi oggetto dei presenti termini e condizioni da parte di GeoStockPhoto, l'eventuale Submit delle Fotografie sar&agrave rimesso all'Utente Fotografo. Inoltre, resta inteso che nonostante la partecipazione al Servizio <i>Mandaci le tue foto</i> le Fotografie saranno comunque soggette al Sistema di Votazione e, dunque, potranno essere rifiutate.</p>
+<p>GeoStockPhoto determiner&agrave i Dati a propria esclusiva discrezione ed insindacabile giudizio. Resta inteso che l'Utente Fotografo potr&agrave modificare i Dati dopo che le Fotografie interessate saranno approvate dal Sistema di Votazione.</p>
+<p>I costi totali per l'esecuzione dei servizi eseguiti da GeoStockPhoto verranno determinati una volta ultimati tali servizi. Resta inteso che tali costi non supereranno in nessun caso il Budget e che l'Utente Fotografo potr&agrave monitore in tempo reale i costi maturati tramite il proprio account.</p>
+<p>Una volta ultimata l'esecuzione dei servizi, GeoStockPhoto informer&agrave l'Utente Fotografo via email e comunicher&agrave i costi totali per i servizi svolti, unitamente alle relative modalit&agrave di pagamento. L'Utente Fotografo dovr&agrave eseguire il pagamento tramite Paypal o carta di credito.</p>
+<p>Una volta ricevuto il pagamento dell'Utente Fotografo, GeoStockPhoto provveder&agrave a rispedire il Supporto all'Utente Fotografo, se cos&igrave richiesto dall'Utente Fotografo.</p>
+
+<h5>5.	Tempistica</h5>
+<p>Il tempo che GeoStockPhoto impiegher&agrave per l'esecuzione del Servizio <i>Mandaci le tue foto</i> varier&agrave in funzione del numero delle Fotografie rispetto alle quali GeoStockPhoto ha eseguito i servizi oggetto dei presenti termini e condizioni e degli specifici servizi eseguiti.</p>
+<p>Resta inteso che GeoStockPhoto non sar&agrave soggetta ad alcun vincolo temporale per l'esecuzione dei servizi.</p>
+
+</div>

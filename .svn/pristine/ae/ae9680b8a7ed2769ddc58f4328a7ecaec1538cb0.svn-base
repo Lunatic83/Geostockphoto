@@ -1,0 +1,1 @@
+<div id="map_canvas" style="height: 400px; border: solid 1px black">test</div>

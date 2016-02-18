@@ -1,0 +1,335 @@
+/* 
+	Resets defualt browser settings
+	reset.css
+*/
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td { margin:0; padding:0; border:0; outline:0; font-size:100%; vertical-align:baseline; }
+:focus { outline:0; }
+a:active { outline:none; }
+body { line-height:1; color:black; background:white; }
+ol,ul { list-style:none; }
+table { border-collapse:separate; border-spacing:0; }
+caption,th,td { text-align:left; font-weight:normal; }
+blockquote:before,blockquote:after,q:before,q:after { content:""; }
+blockquote,q { quotes:"" ""; }
+
+/*
+	Page style
+*/
+
+h1{font-size:250%; color: #06C;}
+
+body { 
+	font:normal 72.5%/1.5 Helvetica, Arial, sans-serif;
+	letter-spacing:0;
+	background:url(../images/landing/theme/SFO_GSP.jpg) top center no-repeat;
+	padding:20px 0;
+	position:relative;
+	/*text-shadow:0 1px 0 rgba(255,255,255,.8);*/
+	-webkit-font-smoothing: subpixel-antialiased;
+}
+
+#container {
+	width:580px;
+	padding:10px;
+	margin:0 auto;
+	position:relative;
+	z-index:0;
+}
+
+#example {
+	width:600px;
+	height:350px;
+	position:relative;
+}
+
+#ribbon {
+	position:absolute;
+	top:-3px;
+	left:-13px;
+	z-index:500;
+}
+
+#frame {
+	position:absolute;
+	z-index:0;
+	width:739px;
+	height:341px;
+	top:-3px;
+	left:-80px;
+}
+
+/*
+	Slideshow
+*/
+
+#slides {
+	position:absolute;
+	top:15px;
+	left:4px;
+	z-index:100;
+}
+
+/*
+	Slides container
+	Important:
+	Set the width of your slides container
+	Set to display none, prevents content flash
+*/
+
+.slides_container {
+	width:570px;
+	overflow:hidden;
+	position:relative;
+	display:none;
+}
+
+/*
+	Each slide
+	Important:
+	Set the width of your slides
+	If height not specified height will be set by the slide content
+	Set to display block
+*/
+
+.slides_container a {
+	width:570px;
+	height:270px;
+	display:block;
+}
+
+.slides_container a img {
+	display:block;
+}
+
+/*
+	Next/prev buttons
+*/
+
+#slides .next,#slides .prev {
+	position:absolute;
+	top:107px;
+	left:-39px;
+	width:24px;
+	height:43px;
+	display:block;
+	z-index:101;
+}
+
+#slides .next {
+	left:585px;
+}
+
+/*
+	Pagination
+*/
+
+.pagination {
+	margin:26px auto 0;
+	width:100px;
+}
+
+.pagination li {
+	float:left;
+	margin:0 1px;
+	list-style:none;
+}
+
+.pagination li a {
+	display:block;
+	width:12px;
+	height:0;
+	padding-top:12px;
+	background-image:url(../images/landing/theme/pagination.png);
+	background-position:0 0;
+	float:left;
+	overflow:hidden;
+}
+
+.pagination li.current a {
+	background-position:0 -12px;
+}
+
+/*
+	Footer
+*/
+
+#footer {
+	text-align:center;
+	width:580px;
+	margin-top:9px;
+	padding:4.5px 0 18px;
+	border-top:1px solid #dfdfdf;
+}
+
+#footer p {
+	margin:4.5px 0;
+	font-size:1.0em;
+}
+
+/*
+	Anchors
+*/
+
+a:link,a:visited {
+	text-decoration:none;
+	color:#06C
+}
+
+a:hover,a:active {
+	text-decoration:underline;
+	color:#06C
+}
+
+
+#log-reg a:link, #log-reg a:visited {
+	text-decoration:none;
+	color:white
+}
+
+#log-reg a:hover, #log-reg a:active {
+	text-decoration:underline;
+	color:white
+}
+
+/*
+	Box Link
+*/
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
+
+div.box_link {
+	width: 160px;
+	clear: both;
+	margin-bottom: 6px;
+	padding-bottom: 6px;
+}
+div.box_link a.sn_fb {
+	margin-left: 12px;
+}
+div.box_link a.allineati {
+	margin-left: 12px;
+	font-size: 18px;
+}
+div.box_link div.elenco_link {
+	width: 250px;
+	margin-left: 13px;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+div.box_link div.elenco_link a, div.box_link div.elenco_link a:visited {
+	font-size: 11px;
+/*	font-weight: normal;
+*/}
+div.box_link div.elenco_link a:hover {
+	font-size: 11px;
+/*	font-weight: normal;
+*/}
+div.box_link h3 {
+	width: 226px;
+	margin-left: 13px;
+	font-size: 18px;
+	line-height: 16px;
+	text-transform: uppercase;
+	margin-bottom: 6px;
+}
+
+div.allineati, a.allineati {
+	display: -moz-inline-stack;	
+	display: inline-block;
+	vertical-align: top;
+	zoom: 1;
+	*display: inline;
+}
+
+a.sn_fb,
+a.sn_tw {
+	width: 32px;
+	height: 32px;
+	font-size: 0px;
+	text-indent: -9000px;
+	margin-left:5px;
+	margin-right:5px;
+	margin-top:8px;
+}
+
+a.sn_fb {
+	background: transparent url("http://www.geostockphoto.com/images/landing/theme/icona_fb.png") bottom left no-repeat;
+}
+a.sn_fb:hover {
+	background: transparent url("http://www.geostockphoto.com/images/landing/theme/icona_fb.png") -32px no-repeat;
+}
+
+a.sn_tw {
+	background: transparent url("http://www.geostockphoto.com/images/landing/theme/icona_tw.png") bottom left no-repeat;
+}
+a.sn_tw:hover {
+	background: transparent url("http://www.geostockphoto.com/images/landing/theme/icona_tw.png") -32px no-repeat;
+}
+
+.menu LI {
+	LIST-STYLE-TYPE: none; DISPLAY: inline; COLOR: #fff; LIST-STYLE-IMAGE: none
+}
+.menu LI A {
+	COLOR: #fff
+}
+
+
+#log-reg {
+	color:white; margin-top:-20px; POSITION:fixed; WIDTH: 70px; BACKGROUND: url(../images/transparent.png); HEIGHT: 20px; RIGHT: 0px; BEHAVIOR: url(../../PIE/PIE.htc); border-radius: 0 0 0 6px; -webkit-border-radius: 0 0 0 6px; -moz-border-radius: 0 0 0 6px
+}
+#log-reg .menu {
+	MARGIN: 0px 0px 0px 20px; FLOAT: left
+}
+/*MARCO REMOVED " BACKGROUND: url(../images/transparent.png);"*/
+#login {
+	margin-top:-20px; Z-INDEX: 10; BACKGROUND: url(../images/transparent.png); POSITION: absolute; WIDTH: 100%; DISPLAY: none; HEIGHT: 100%
+}
+#login DIV {
+	POSITION: relative; PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-LEFT: 50px; WIDTH: 300px; PADDING-RIGHT: 50px; DISPLAY: none; BACKGROUND: url(../images/transparent.png); HEIGHT: 170px; COLOR: #fff; PADDING-TOP: 5px; BEHAVIOR: url(../../PIE/PIE.htc); border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px
+}
+#login DIV .left {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: auto; PADDING-TOP: 0px; border-radius: 0
+}
+#login DIV .right {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: auto; PADDING-TOP: 0px; border-radius: 0
+}
+#login DIV .left {
+	WIDTH: inherit; FONT-SIZE: 30px
+}
+#login DIV .left IMG {
+	MARGIN: 4px 0px 0px; CURSOR: pointer
+}
+#login DIV .left P {
+	TEXT-ALIGN: center; COLOR: silver; FONT-SIZE: 15px
+}
+#login DIV .right INPUT {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; MARGIN: 10px 0px; WIDTH: 100%; HEIGHT: 24px; COLOR: gray; FONT-SIZE: 18px; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#login DIV .right INPUT.rem-me {
+	MARGIN: 0px 10px 0px 0px; WIDTH: auto; HEIGHT: auto; FONT-SIZE: 18px
+}
+#login DIV .right P {
+	TEXT-ALIGN: center; LINE-HEIGHT: 2; MARGIN: 10px 0px; FONT-SIZE: 11px
+}
+#login DIV .right A {
+	COLOR: #fff; TEXT-DECORATION: underline
+}
+#login DIV .right P LABEL + A {
+	MARGIN: 0px 10px; TEXT-DECORATION: none
+}
+#login DIV .right P LABEL + A + A {
+	TEXT-DECORATION: none
+}
+#login DIV .right .button {
+	MIN-WIDTH: 50px; TEXT-ALIGN: center; PADDING-BOTTOM: 1px; MARGIN: 0px; MIN-HEIGHT: 20px; PADDING-LEFT: 15px; WIDTH: auto; PADDING-RIGHT: 15px; BACKGROUND: #0070bb; FLOAT: right; HEIGHT: auto; COLOR: #fff; CURSOR: pointer; FONT-WEIGHT: bold; PADDING-TOP: 4px; border-radius: 6px
+}
+#login DIV .right .button:hover {
+	BACKGROUND: #015993
+}
+#login DIV .right .button:active {
+	-moz-box-shadow: 0px 1px 3px rgba(000, 000, 000, 0.5), inset 2px 3px 9px rgba(20, 13, 20, 0.4); -webkit-box-shadow: 0px 1px 3px rgba(000, 000, 000, 0.5), inset 2px 3px 9px rgba(20, 13, 20, 0.4); text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.2), 0px 1px 0px rgba(133, 133, 133, 1)
+}

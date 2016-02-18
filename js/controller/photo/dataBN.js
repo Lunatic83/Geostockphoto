@@ -1,0 +1,1 @@
+var data = { 'count': 0,'photos': []};
